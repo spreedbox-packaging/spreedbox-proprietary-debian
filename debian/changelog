@@ -1,0 +1,5 @@
+spreedbox-proprietary (0.0.1) trusty; urgency=low
+
+  * Added meta package to activate the proprietary repository.
+
+ -- Joachim Bauch <bauch@struktur.de>  Tue, 26 Jul 2016 15:31:14 +0200
